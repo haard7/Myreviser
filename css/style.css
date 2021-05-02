@@ -390,9 +390,25 @@ input textarea{
 }
 
 @media (max-width:991px) {
-.carousel-caption{
-  margin-bottom: 100px;
+#carouselExampleIndicators{
+  height: 500px;
 }
+.d-md-block{
+  padding-bottom: 1000px;
+}
+.page2{
+  min-height: 50vh;
+}
+.glass{
+  min-height: 50vh;
+}
+.page3{
+  min-height: 50vh;
+}
+.first-hr{
+  margin-top: 300px;
+}
+
 
   .card {
     display: flex;
