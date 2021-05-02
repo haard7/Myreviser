@@ -408,6 +408,9 @@ input textarea{
 .first-hr{
   margin-top: 300px;
 }
+  .more-info{
+    display: none;
+  }
 
 
   .card {
